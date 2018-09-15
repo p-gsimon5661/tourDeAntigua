@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#990000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="primary_color">#ffff00</color>
+    <color name="about_color">#000000</color>
+    <color name="food_color">#000000</color>
+    <color name="hotel_color">#000000</color>
+    <color name="sites_color">#000000</color>
+    <color name="todo_color">#000000</color>
+</resources>

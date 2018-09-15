@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Tour De Antigua</string>
+    <string name="item_about">About</string>
+    <string name="item_food">Food</string>
+    <string name="item_sites">Sites</string>
+    <string name="item_hotels">Hotels</string>
+    <string name="item_activities">To do </string>
+    <string name="customImage">Custom Image</string>
+    <string name="nav">Map</string>
+    <string name="moreInfo">More Info</string>
+    <string name="antigua_desc">
+        Antigua (ann-TEE-ga), also known as Waladli or Wadadli by the native population, is an island in the West Indies. It is one of the Leeward Islands in the Caribbean region and the main island of the country of Antigua and Barbuda.
+    </string>
+    <string name="barbuda_desc">
+        Barbuda is a small island located in the eastern Caribbean forming part of the sovereign Commonwealth nation of Antigua and Barbuda.
+    </string>
+    <string name="anu_url">https://en.wikipedia.org/wiki/Antigua</string>
+    <string name="brd_url">https://en.wikipedia.org/wiki/Barbuda</string>
+    <string name="anu_geo">geo:17.087635, -61.772346?z=11</string>
+    <string name="brd_geo">geo:17.6266, -61.7713?z=11</string>
+
+    <string name="rotieKing_desc">
+        Roti King’s specialty dish is Roti – made with a curried filling of either beef, chicken, shrimp, conch or vegetables, mixed with spiced potatoes and wrapped in a floured chapatti (Roti skin).
+    </string>
+    <string name="rotiKing_url">http://www.foodanddrink-antigua.com/item/antigua-roti-king-restaurant/</string>
+    <string name="rotiKing_geo">geo:17.12095513231863, -61.84328140305297?z=17</string>
+
+    <string name="islandFusion_desc">
+       Island Fusion will allow you to experience Caribbean cuisine, international flavours and taste some of the best home cooked food on the island. Island Fusion is located in English Harbour.
+    </string>
+    <string name="islandFusion_url">https://islandfusionrestaurant.weebly.com/</string>
+    <string name="islandFusion_geo">geo:17.0161934,-61.7776788?z=17</string>
+
+    <string name="papa_desc">
+        Papa\'s By The Sea is Located in the perfect sunset spot on the Eastern side of Falmouth Harbour, Papa\'s is the perfect all day hotspot.
+    </string>
+    <string name="papa_url">http://www.visitantiguabarbuda.com/travel-directory/papas-by-the-sea/</string>
+    <string name="papa_geo">geo:17.0210851,-61.7755503?z=17</string>
+
+    <string name="uncleRoddy_desc">
+        Uncle Roddy is famous for his grilled lobster and is located right on the beach at Coral Group bay in Barbuda.
+    </string>
+    <string name="uncleRoddy_url">http://www.visitantiguabarbuda.com/travel-directory/uncle-roddys/</string>
+    <string name="uncleRoddy_geo">geo:17.5838614,-61.7985784?z=17</string>
+
+    <string name="nonSuch_desc">
+        Nonsuch Bay in Antigua is one of the most luxurious and modern All Inclusive Caribbean Resorts.
+    </string>
+    <string name="nonSuch_url">http://www.nonsuchbayresort.com/</string>
+    <string name="nonSuch_geo">geo:17.072688,-61.7018457?z=17</string>
+
+    <string name="sugar_desc">
+         Sugar Ridge is Antigua’s newest 4-star luxury boutique resort. All 60 well-appointed rooms wrap around an exotic tropical hillside providing undisturbed seclusion.
+    </string>
+    <string name="sugar_url">https://www.sugarridgeantigua.com/</string>
+    <string name="sugar_geo">geo:17.0600334,-61.8859394?z=17</string>
+
+    <string name="cocos_desc">
+         COCOS Hotel is an all inclusive Antigua resort for couples and adults only. This rustic yet luxurious boutique resort comprises of a collection of 34 quaint wooden Cottages.
+    </string>
+    <string name="cocos_url">http://www.cocoshotel.com/</string>
+    <string name="cocos_geo">geo:17.060363,-61.8919497?z=17</string>
+
+    <string name="villa_desc">
+         Antigua Village Condominium Beach Resort is a unique combination of comfort, character and local culture that encapsulates the spirit of the Caribbean.
+    </string>
+    <string name="villa_url">https://www.antiguavillage.com/</string>
+    <string name="villa_geo">geo:17.1559068,-61.8518794?z=17</string>
+
+    <string name="cocop_desc">
+         Coco Point Lodge is a unique all-inclusive seasonal resort, secluded on its own 164-acre peninsula, bordered by miles of pristine pink/white sand beaches.
+    </string>
+    <string name="cocop_url">http://cocopoint.com/</string>
+    <string name="cocop_geo">geo:17.5495877,-61.7677438?z=17</string>
+
+    <string name="sheights_desc">
+       Shirley Heights is a restored military lookout and gun battery. The Lookout high point (about 490 ft.) affords a superb view of English and Falmouth Harbours, the best view in Antigua.
+    </string>
+    <string name="sheights_url">http://www.visitantiguabarbuda.com/travel-directory/shirley-heights-lookout/</string>
+    <string name="sheights_geo">geo:17.0022841,-61.7571947?z=17</string>
+
+    <string name="devilsBridge_desc">
+       Devil\'s Bridge is a natural arch carved by the sea from soft and hard limestone ledges of the Antigua formation, a geological division of the flat north-eastern part of Antigua.
+    </string>
+    <string name="devilsBridge_url">http://www.antiguanice.com/v2/client.php?id=442</string>
+    <string name="devilsBridge_geo">geo:17.1005038,-61.6806133?z=17</string>
+
+    <string name="eharbour_desc">
+      English Harbour is a natural harbour and settlement on the island of Antigua, in the extreme south of the island. The settlement takes its name from the nearby harbour in which the Royal Navy established its base.
+    </string>
+    <string name="eharbour_url">https://en.wikipedia.org/wiki/English_Harbour</string>
+    <string name="eharbour_geo">geo:17.0087855,-61.7708698?z=12</string>
+
+    <string name="fBird_desc">
+      Frigate Bird Sanctuary in Barbuda is known for its beautiful pristine beaches, particularly its Pink Sand, which is a treasure to many…But there is more to this breathtaking treasure box than sparkling sands and emerald sea.
+    </string>
+    <string name="fBird_url">http://www.visitantiguabarbuda.com/travel-directory/frigate-bird-sanctuary/</string>
+    <string name="fBird_geo">geo:17.6726899,-61.8695849?z=12</string>
+
+    <string name="zipLine_desc">
+      The Antigua Rainforest Zipline Tour is a unique eco-tour through Antigua’s lush rainforest FOR ALL AGES!! Our youngest participant was 4 years old and our oldest to date was 99 years old.
+    </string>
+    <string name="zipLine_url">http://antiguarainforest.com/</string>
+    <string name="zipLine_geo">geo:17.0372232,-61.8306881?z=17</string>
+
+    <string name="dowHill_desc">
+      Dow\'s Hill Interpretation Centre, offers a primer on Antigua history from the Amerindian era to the present, watch the 15-minute multimedia presentation at this interpretative center just past the entrance to Shirley Heights.
+    </string>
+    <string name="dowHill_url">https://www.lonelyplanet.com/antigua-barbuda/attractions/dows-hill-interpretation-centre/a/poi-sig/1393225/1005249</string>
+    <string name="dowHill_geo">geo:17.0107864,-61.7594883?z=17</string>
+
+    <string name="donkey_desc">
+      The Antigua and Barbuda Humane Society, located on the eastern side of the island near Bethesda, offers and permanent home for donkeys at risk.
+    </string>
+    <string name="donkey_url">http://www.antiguaanimals.com/donkey/</string>
+    <string name="donkey_geo">geo:17.0486898,-61.7619945?z=17</string>
+
+    <string name="bcave_desc">
+      The caves here run along the sea cliffs and are interesting and full of history. A visitor might see evidence of bats, crabs, huge iguanas, tropicbirds and other interesting flaura and fauna.
+    </string>
+    <string name="bcave_url">http://www.barbudaful.net/things-to-do-see/watersports/caves.html</string>
+    <string name="bcave_geo">geo:17.6690492,-61.7710803?z=17</string>
+</resources>
